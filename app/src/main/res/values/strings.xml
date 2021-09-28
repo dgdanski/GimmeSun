@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GimmeSun</string>
+    <string name="city">City:</string>
+    <string name="example_city">Warsaw</string>
+    <string name="minus">-</string>
+    <string name="morning_temperature">Morning temperature:</string>
+    <string name="day_temperature">Day temperature:</string>
+    <string name="night_temperature">Night temperature:</string>
+    <string name="humidity">Humidity:</string>
+    <string name="celsius">C</string>
+    <string name="no_internet_connection">Well, there is no Internet connection.\nReconnect and restart app then.</string>
+</resources>
